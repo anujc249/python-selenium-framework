@@ -1,0 +1,4 @@
+py==1.4.33
+pytest==2.9.0
+selenium==3.4.0
+wheel==0.24.0
